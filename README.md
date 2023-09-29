@@ -6,10 +6,10 @@
   gestione di  dizionari e semplici funzioni matematiche
 - ### esercizi_python:
   contiene alcuni esempi sui costrutti base del linguaggio python e alcune spiegazioni del linguaggio:
-    1.  list comprehension
-    2.  cicli for su liste e dizionari
-    3.  formattazione stringhe con slice degli indici
-    4.  lettura file e formattazione delle righe lette
+    - list comprehension
+    - cicli for su liste e dizionari
+    - formattazione stringhe con slice degli indici
+    - lettura file e formattazione delle righe lette
  - ### progetto_text_generator:
   primo progetto di una classe che a partire da un file di testo genera una frase a partire da una parola scelta 
   scelta dall'utente (la parola deve essere contenuta nel file). La lunghezza della frase è decisa daòl'utente.
