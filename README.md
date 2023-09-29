@@ -11,8 +11,8 @@
     - formattazione stringhe con slice degli indici
     - lettura file e formattazione delle righe lette
  - ### progetto_text_generator:
-  primo progetto di una classe che a partire da un file di testo genera una frase a partire da una parola scelta 
-  scelta dall'utente (la parola deve essere contenuta nel file). La lunghezza della frase è decisa daòl'utente.
-  La classe presenta diversi metodi, tutti dotati di docstring.
+    primo progetto di una classe che a partire da un file di testo genera una frase a partire da una parola scelta 
+    scelta dall'utente (la parola deve essere contenuta nel file). La lunghezza della frase è decisa daòl'utente.
+    La classe presenta diversi metodi, tutti dotati di docstring.
   
 
