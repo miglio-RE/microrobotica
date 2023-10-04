@@ -15,5 +15,7 @@
     L'inizio della frase  è dato da una parola  
     scelta dall'utente (la parola deve essere contenuta nel file). La lunghezza della frase è decisa dall'utente.
     La classe presenta diversi metodi, tutti dotati di docstring.
-  
+   -### NumPy:
+     prime funzionalità della libreria, come creazione di array contenenti 0 e 1, operazioni di broadcast e tipo
+     dell'array+ comando magico timeinit fornito da Jupyter Notebook
 
