@@ -1,4 +1,4 @@
-# microrobotica
+# Microrobotica
 ## Raccolta di progetti di 5° superiore (AS 2023-2024), presso l'ITIS Mario Delpozzo di Cuneo. 
 ## Elenco dei progetti: 😉
 - ### esercizi_ripasso_Python:
